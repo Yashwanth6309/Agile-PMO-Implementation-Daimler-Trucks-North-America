@@ -5,8 +5,6 @@
 ![Agile](https://img.shields.io/badge/Methodology-Agile%20PMO-blue?style=for-the-badge&logo=jira)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![Timeline](https://img.shields.io/badge/Timeline-Feb–Dec%202025-green?style=for-the-badge)
-![Budget](https://img.shields.io/badge/Budget-%2480K–%24123K-orange?style=for-the-badge)
-![Course](https://img.shields.io/badge/Course-ETM%20546-purple?style=for-the-badge)
 
 </div>
 
@@ -49,9 +47,9 @@
 This project proposes the transition of Daimler Trucks North America's **Continuous Improvement PMO (CI PMO)** to a fully co-located **Agile PMO** — delivering faster decision-making, cross-functional collaboration, and strategic alignment with the company's innovation goals.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────┐
 │              TRANSFORMATION AT A GLANCE                        │
-│                                                                 │
+│                                                                │
 │   Traditional CI PMO          ──►          Agile PMO           │
 │   ─────────────────                        ─────────           │
 │   Command & Control                    Empower & Iterate       │
@@ -59,7 +57,7 @@ This project proposes the transition of Daimler Trucks North America's **Continu
 │   Siloed Departments                   Cross-Functional Teams  │
 │   Approval Bottlenecks                 Continuous Delivery     │
 │   Reactive Planning                    Proactive Adaptation    │
-└─────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -92,7 +90,7 @@ This project proposes the transition of Daimler Trucks North America's **Continu
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                     AGILE PMO ECOSYSTEM                        │
+│                     AGILE PMO ECOSYSTEM                         │
 │                                                                 │
 │  ┌──────────────┐    ┌───────────────┐    ┌──────────────┐      │
 │  │  GOVERNANCE  │    │ COLLABORATION │    │  TRACKING    │      │
@@ -183,21 +181,21 @@ Agile PMO Implementation  [239 days: Feb – Dec 2025]
 ┌────────────────────────────────────────────────────────┐
 │                  STAKEHOLDER MAP                       │
 │                                                        │
-│  🏢 Executive Leadership                               │
-│     C-level · PMO Sponsors · Business Unit Heads      │
+│  🏢 Executive Leadership                              │
+│     C-level · PMO Sponsors · Business Unit Heads       │
 │                        │                              │
 │                        ▼                              │
-│  ⚙️  Agile PMO Team                                    │
+│  ⚙️  Agile PMO Team                                   │
 │     PMO Lead · Coaches · Scrum Masters · PMs          │
 │                        │                              │
 │                        ▼                              │
-│  🔗 Cross-Functional Departments                       │
+│  🔗 Cross-Functional Departments                     │
 │     IT · Manufacturing · Sales · Marketing            │
 │                        │                              │
 │                        ▼                              │
-│  👤 End Users & Customers                              │
+│  👤 End Users & Customers                             │
 │     Internal Teams · External Dealers                 │
-└────────────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -364,6 +362,5 @@ The Agile PMO will position Daimler Trucks North America as a responsive, innova
 ![Azure](https://img.shields.io/badge/Tool-Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops)
 ![PowerBI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat-square&logo=powerbi)
 
-*ETM 546 — Project Management Tools*
 
 </div>
