@@ -3,8 +3,6 @@
 <div align="center">
 
 ![Agile](https://img.shields.io/badge/Methodology-Agile%20PMO-blue?style=for-the-badge&logo=jira)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Timeline](https://img.shields.io/badge/Timeline-Feb–Dec%202025-green?style=for-the-badge)
 
 </div>
 
