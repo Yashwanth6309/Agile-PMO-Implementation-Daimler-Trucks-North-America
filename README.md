@@ -1,8 +1,5 @@
 # 🚛 Agile PMO Implementation — Daimler Trucks North America
 
-> **Course:** Project Management Tools (ETM 546) | **Instructor:** Prof. Jeff Busch  
-> **Team:** Anish Arumugam · Prenidha Alan Vijay · Yashwanth Dharipelli · Vamsi Krishna Masetty · Monica Pinnamaneni
-
 ---
 
 ## 📋 Table of Contents
@@ -29,7 +26,7 @@
 This project proposes the transition of Daimler Trucks North America's **Continuous Improvement PMO (CI PMO)** to a fully co-located **Agile PMO** — delivering faster decision-making, cross-functional collaboration, and strategic alignment with the company's innovation goals.
 
 ```
-Traditional CI PMO  ──►  Agile PMO
+Traditional CI PMO   ──►   Agile PMO
   Command & Control        Empower & Iterate
   Rigid Timelines          Sprint Cycles
   Siloed Departments       Cross-Functional Teams
@@ -65,11 +62,11 @@ Traditional CI PMO  ──►  Agile PMO
 ## Architecture & Technical Design
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    AGILE PMO ECOSYSTEM                      │
-│                                                             │
+┌────────────────────────────────────────────────────────────┐
+│                    AGILE PMO ECOSYSTEM                     │
+│                                                            │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐     │
-│  │  GOVERNANCE │    │ COLLABORATION│    │  TRACKING   │     │
+│  │  GOVERNANCE │    │COLLABORATION│    │  TRACKING   │     │
 │  │             │    │             │    │             │     │
 │  │ Agile       │    │ Microsoft   │    │ Jira Align  │     │
 │  │ Charter     │    │ Teams       │    │ Azure DevOps│     │
@@ -87,12 +84,12 @@ Traditional CI PMO  ──►  Agile PMO
 │              │ Tableau       │      │ T-Shirt Sizing  │    │
 │              │ Jira Dashbds  │      │ Dot Voting      │    │
 │              └───────────────┘      └─────────────────┘    │
-│                                                             │
-│  ┌──────────────────────────────────────────────────────┐   │
-│  │              AGILE FRAMEWORKS SUPPORTED              │   │
-│  │  Scrum · Kanban · SAFe · Lean · XP · FDD · DSDM     │   │
-│  └──────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────┘
+│                                                            │
+│  ┌──────────────────────────────────────────────────────┐  │
+│  │              AGILE FRAMEWORKS SUPPORTED              │  │
+│  │  Scrum · Kanban · SAFe · Lean · XP · FDD · DSDM      │  │
+│  └──────────────────────────────────────────────────────   │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ### Tool Sizing Guide
@@ -110,31 +107,31 @@ Traditional CI PMO  ──►  Agile PMO
 ## Project Phases (WBS)
 
 ```
-Agile PMO Implementation (239 days: Feb – Dec 2025)
+Agile PMO Implementation
 │
-├── Phase 1: PMO Foundation  [Feb – May 2025]
+├── Phase 1: PMO Foundation  
 │   ├── Define mission, vision, governance structure
 │   ├── Current state analysis of CI PMO
 │   ├── Identify inefficiencies and improvement areas
 │   └── Define roles, responsibilities, Agile frameworks
 │
-├── Phase 2: Implementation & Pilot  [May – Sep 2025]
+├── Phase 2: Implementation & Pilot
 │   ├── Select and configure tools (Jira, Confluence, Azure DevOps)
 │   ├── Build performance dashboards
 │   ├── Execute pilot project with select teams
 │   └── Gather feedback and document lessons learned
 │
-├── Phase 3: Organization-wide Scaling  [Sep – Oct 2025]
+├── Phase 3: Organization-wide Scaling 
 │   ├── Roll out Agile PMO to all key departments
 │   ├── Deliver tailored training per team maturity
 │   └── Implement change management strategies
 │
-├── Phase 4: Continuous Improvement  [Nov 2025]
+├── Phase 4: Continuous Improvement 
 │   ├── Monitor KPIs and Agile metrics
 │   ├── Run retrospectives and refine processes
 │   └── Foster Agile culture and best practices
 │
-└── Phase 5: Sustainability Integration  [Dec 2025]
+└── Phase 5: Sustainability Integration  
     ├── Embed carbon footprint metrics into project lifecycle
     ├── Conduct eco-impact assessments
     └── Align with Daimler's 2050 CO₂e-neutral goal
@@ -167,9 +164,9 @@ Agile PMO Implementation (239 days: Feb – Dec 2025)
 ### Agile Frameworks
 
 ```
-┌─────────┐  ┌─────────┐  ┌──────┐  ┌──────┐  ┌────┐  ┌─────┐  ┌──────┐
+┌─────────┐  ┌─────────┐  ┌──────┐  ┌──────┐  ┌────┐  ┌─────┐  ┌────── ┐
 │  Scrum  │  │ Kanban  │  │ Lean │  │ DSDM │  │ XP │  │ FDD │  │Crystal│
-└─────────┘  └─────────┘  └──────┘  └──────┘  └────┘  └─────┘  └──────┘
+└─────────┘  └─────────┘  └──────┘  └──────┘  └────┘  └─────┘  └────── ┘
 ```
 
 ### Tool Categories
@@ -304,4 +301,3 @@ The Agile PMO will position Daimler Trucks North America as a responsive, innova
 
 ---
 
-*ETM 546 — Project Management Tools | Portland State University*
